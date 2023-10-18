@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/GUI/.idea/GUI.iml" filepath="$PROJECT_DIR$/../pythonProject/GUI/.idea/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyThreadTest/.idea/MyThreadTest.iml" filepath="$PROJECT_DIR$/../MyThreadTest/.idea/MyThreadTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my_Qianfan/.idea/my_Qianfan.iml" filepath="$PROJECT_DIR$/../my_Qianfan/.idea/my_Qianfan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypro01/.idea/mypro01.iml" filepath="$PROJECT_DIR$/../mypro01/.idea/mypro01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypro02/.idea/mypro02.iml" filepath="$PROJECT_DIR$/../mypro02/.idea/mypro02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/坦克大战游戏.iml" filepath="$PROJECT_DIR$/.idea/坦克大战游戏.iml" />
+    </modules>
+  </component>
+</project>
